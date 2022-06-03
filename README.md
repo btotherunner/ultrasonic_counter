@@ -4,7 +4,7 @@ Viel Spaß Maurice :D
 <br>
 <h3> Wire </h3>
 <br> 
-Lib unter: [https://github.com/olikraus/u8g2](https://github.com/olikraus/u8g2/archive/refs/heads/master.zip) <br>herunterladen und Sketch->Bibliothek einbinden -> .ZIP-Bibliothek hinzufügen
+Lib unter: https://github.com/olikraus/u8g2/archive/refs/heads/master.zip <br>herunterladen und Sketch->Bibliothek einbinden -> .ZIP-Bibliothek hinzufügen
 <br><br>
 
 | HC-SR04  | NODEMCU V3 | GPIO |
